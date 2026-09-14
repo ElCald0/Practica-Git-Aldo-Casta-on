@@ -1,2 +1,6 @@
 En este trabajo voy a crear un repositorio de manera local en mi pc y luego lo voy a subir a GitHub, luego lo voy a editar en mi pc y a volver a subir y luego lo voy a editar desde GitHub y lo voy a mandar a mi compu y asi (Repositorio local → GitHub)
 (GitHub → Repositorio local) esto para entender como se trabaja en git y asi ser mejor programador luego en el archivo de README voy a poner como hice la practica y esas cosas, códigos y asi y ya eso es todo.
+
+-----------------------------
+Este archivo fue modificado desde GitHub  ala los truquitos no sabia que se podia modificarde desde aqui mira guau guau dijo el perro ay el perro como el de fin y jake el jake como me hacia reir de chavalito.
+---------------------------------
