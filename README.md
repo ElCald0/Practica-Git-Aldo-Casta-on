@@ -30,7 +30,7 @@
 
 **11.-** Me di cuenta que no porque **ocupaba meter este comando primero** [git pull origin master] para bajar lo de GITHUB a mi pc, y **si se habia realizado el cambio** ya cuando lo confirme con el comando [cat .\datos.txt] 
 
-**12.-** Luego lo hice a la inversa y** modifique el archivo de GITHUB desde mi computadora** ["Este archivo fue modificado desde el repositorio local, ala menchis mira nadamas le meti mas texto desde la consola alabestia chat impresionante como avanza la tecnologia" >> datos.txt] y **lo subi a GITHUB otra vez** para luego confirmarlo con el comando [ cat .\datos.txt]
+**12.-** Luego lo hice a la inversa y **modifique el archivo de GITHUB desde mi computadora** ["Este archivo fue modificado desde el repositorio local, ala menchis mira nadamas le meti mas texto desde la consola alabestia chat impresionante como avanza la tecnologia" >> datos.txt] y **lo subi a GITHUB otra vez** para luego confirmarlo con el comando [ cat .\datos.txt]
 
 **13.-** Con el comando [ git status] me di cuenta que mi **modificacion estaba en UNTRACKED** files entonces volvi a poner [git add] luego [git commit -m "Actualización desde repositorio local"]
 
